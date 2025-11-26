@@ -1,4 +1,4 @@
-# 📊🖼️ Image Size Pie Chart Visualizer (Python + Matplotlib)
+# Image Size Pie Chart Visualizer (Python + Matplotlib)
 
 This project allows you to visualize image sizes using a **donut-style pie chart**.  
 It uses **Python** and **Matplotlib** to display image names and their size distribution graphically.
