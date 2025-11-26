@@ -27,7 +27,7 @@ wedges, texts, autotexts = plt.pie(
 )
 
 # Donut center
-centre_circle = plt.Circle((0, 0), 0.50, fc='black')
+centre_circle = plt.Circle((0, 0), 0.50, fc='white')
 fig = plt.gcf()
 fig.gca().add_artist(centre_circle)
 
